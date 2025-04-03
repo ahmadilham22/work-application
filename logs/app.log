@@ -1,0 +1,150 @@
+2025-03-29T00:21:34.031Z [function toUpperCase() { [native code] }]:  listening to localhost:3000
+2025-03-29T00:23:43.592Z [INFO]: listening to localhost:3000
+2025-03-29T00:24:05.814Z [function toUpperCase() { [native code] }]:  listening to localhost:3000
+2025-03-29T00:25:54.524Z [INFO]:  listening to localhost:3000
+2025-03-29T00:26:14.869Z [INFO]:  listening to http://localhost:3000
+2025-03-29T00:39:17.704Z [INFO]:  listening to http://localhost:3000
+2025-03-29T00:39:23.511Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:25:04.272Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:26:31.424Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:26:45.739Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:26:57.168Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:27:04.092Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:27:27.594Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:27:34.839Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:27:39.771Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:27:52.404Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:29:46.833Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:29:53.359Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:30:12.553Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:34:50.424Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:34:59.432Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:35:11.122Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:35:16.001Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:35:26.906Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:35:40.505Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:35:47.946Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:35:57.552Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:37:36.883Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:38:08.813Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:39:23.572Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:40:24.127Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:40:56.492Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:41:16.168Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:41:30.337Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:42:37.691Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:42:43.547Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:42:59.473Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:43:13.789Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:43:50.027Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:44:09.076Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:44:35.021Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:45:15.835Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:45:26.345Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:46:03.552Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:47:27.803Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:47:38.429Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:47:59.168Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:48:20.514Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:49:33.278Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:49:38.958Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:49:50.269Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:50:20.769Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:50:26.321Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:50:32.966Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:50:56.665Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:51:05.313Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:51:14.768Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:51:25.729Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:52:16.304Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:53:14.727Z [INFO]:  listening to http://localhost:3000
+2025-04-03T02:53:30.135Z [INFO]:  INFO: Starting a postgresql pool with 9 connections.
+2025-04-03T02:53:30.456Z [INFO]:  QUERY: INSERT INTO "public"."users" ("name","email","password","createdAt","updatedAt") VALUES ($1,$2,$3,$4,$5) RETURNING "public"."users"."id", "public"."users"."name", "public"."users"."email", "public"."users"."password", "public"."users"."createdAt", "public"."users"."updatedAt" - PARAMS: ["Ahmad Ilham","angilham2@gmail.com","$2b$10$RnVkfiaMW8cyQkSOs7EVHu.05AMuLvWJuQm8VDmtuYS5.5BlplM9y","2025-04-03 02:53:30.447 UTC","2025-04-03 02:53:30.447 UTC"]
+2025-04-03T03:08:21.212Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:08:40.569Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:08:57.429Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:09:20.423Z [INFO]:  INFO: Starting a postgresql pool with 9 connections.
+2025-04-03T03:09:20.637Z [INFO]:  QUERY: INSERT INTO "public"."users" ("name","email","password","createdAt","updatedAt") VALUES ($1,$2,$3,$4,$5) RETURNING "public"."users"."id", "public"."users"."name", "public"."users"."email", "public"."users"."password", "public"."users"."createdAt", "public"."users"."updatedAt" - PARAMS: ["Jude Bellingham","jbellingham5@gmail.com","$2b$10$1Ju/GltDKRRWlMDQEeKAreHv.P35ObStOgcERwWmxGCwjW48wefZ.","2025-04-03 03:09:20.633 UTC","2025-04-03 03:09:20.633 UTC"]
+2025-04-03T03:22:14.355Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:28:41.550Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:28:48.762Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:28:55.979Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:29:47.270Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:31:48.813Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:31:56.311Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:32:19.839Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:32:43.591Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:32:57.998Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:33:02.846Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:33:07.115Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:34:13.328Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:34:22.969Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:34:40.204Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:34:45.481Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:34:49.466Z [INFO]:  INFO: Starting a postgresql pool with 9 connections.
+2025-04-03T03:34:49.707Z [INFO]:  QUERY: SELECT COUNT(*) AS "_count._all" FROM (SELECT "public"."users"."id" FROM "public"."users" WHERE "public"."users"."email" = $1 OFFSET $2) AS "sub" - PARAMS: ["jbellingham5@gmail.com",0]
+2025-04-03T03:35:11.220Z [INFO]:  QUERY: SELECT 1 - PARAMS: []
+2025-04-03T03:35:11.223Z [INFO]:  QUERY: SELECT COUNT(*) AS "_count._all" FROM (SELECT "public"."users"."id" FROM "public"."users" WHERE "public"."users"."email" = $1 OFFSET $2) AS "sub" - PARAMS: ["vedefal8@gmail.com",0]
+2025-04-03T03:35:11.333Z [INFO]:  QUERY: INSERT INTO "public"."users" ("name","email","password","createdAt","updatedAt") VALUES ($1,$2,$3,$4,$5) RETURNING "public"."users"."id", "public"."users"."name", "public"."users"."email", "public"."users"."password", "public"."users"."createdAt", "public"."users"."updatedAt" - PARAMS: ["Federico Valverde","vedefal8@gmail.com","$2b$10$cImYMt2RpnpasfsPPKrMwuoMR0FJePTyKPOQqXJPLkxzjFcUS0Rsi","2025-04-03 03:35:11.327 UTC","2025-04-03 03:35:11.327 UTC"]
+2025-04-03T03:39:12.517Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:42:35.892Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:43:06.369Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:43:27.481Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:43:34.524Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:43:42.097Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:43:48.710Z [INFO]:  INFO: Starting a postgresql pool with 9 connections.
+2025-04-03T03:43:48.958Z [INFO]:  QUERY: SELECT "public"."users"."id", "public"."users"."name", "public"."users"."email", "public"."users"."password", "public"."users"."createdAt", "public"."users"."updatedAt" FROM "public"."users" WHERE 1=1 OFFSET $1 - PARAMS: [0]
+2025-04-03T03:43:56.506Z [INFO]:  QUERY: SELECT "public"."users"."id", "public"."users"."name", "public"."users"."email", "public"."users"."password", "public"."users"."createdAt", "public"."users"."updatedAt" FROM "public"."users" WHERE 1=1 OFFSET $1 - PARAMS: [0]
+2025-04-03T03:44:33.726Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:44:42.809Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:44:43.773Z [INFO]:  INFO: Starting a postgresql pool with 9 connections.
+2025-04-03T03:44:43.999Z [INFO]:  QUERY: SELECT "public"."users"."id", "public"."users"."name", "public"."users"."email", "public"."users"."password", "public"."users"."createdAt", "public"."users"."updatedAt" FROM "public"."users" WHERE 1=1 OFFSET $1 - PARAMS: [0]
+2025-04-03T03:51:18.948Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:51:22.025Z [INFO]:  INFO: Starting a postgresql pool with 9 connections.
+2025-04-03T03:51:22.349Z [INFO]:  QUERY: SELECT name, email FROM users - PARAMS: []
+2025-04-03T03:51:44.810Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:51:46.726Z [INFO]:  INFO: Starting a postgresql pool with 9 connections.
+2025-04-03T03:51:48.718Z [INFO]:  QUERY: SELECT "public"."users"."id", "public"."users"."name", "public"."users"."email", "public"."users"."password", "public"."users"."createdAt", "public"."users"."updatedAt" FROM "public"."users" WHERE 1=1 OFFSET $1 - PARAMS: [0]
+2025-04-03T03:52:00.472Z [INFO]:  QUERY: SELECT "public"."users"."id", "public"."users"."name", "public"."users"."email", "public"."users"."password", "public"."users"."createdAt", "public"."users"."updatedAt" FROM "public"."users" WHERE 1=1 OFFSET $1 - PARAMS: [0]
+2025-04-03T03:52:30.280Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:52:34.521Z [INFO]:  INFO: Starting a postgresql pool with 9 connections.
+2025-04-03T03:52:34.894Z [INFO]:  QUERY: SELECT name, email FROM users - PARAMS: []
+2025-04-03T03:52:37.035Z [INFO]:  QUERY: SELECT name, email FROM users - PARAMS: []
+2025-04-03T03:52:54.720Z [INFO]:  listening to http://localhost:3000
+2025-04-03T03:53:02.199Z [INFO]:  INFO: Starting a postgresql pool with 9 connections.
+2025-04-03T03:53:02.403Z [INFO]:  QUERY: SELECT "public"."users"."id", "public"."users"."name", "public"."users"."email", "public"."users"."password", "public"."users"."createdAt", "public"."users"."updatedAt" FROM "public"."users" WHERE 1=1 OFFSET $1 - PARAMS: [0]
+2025-04-03T03:53:05.492Z [INFO]:  QUERY: SELECT "public"."users"."id", "public"."users"."name", "public"."users"."email", "public"."users"."password", "public"."users"."createdAt", "public"."users"."updatedAt" FROM "public"."users" WHERE 1=1 OFFSET $1 - PARAMS: [0]
+2025-04-03T04:00:00.133Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:00:22.370Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:00:40.182Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:01:53.593Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:02:16.723Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:02:25.601Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:03:12.000Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:03:38.431Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:03:47.406Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:03:58.891Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:04:02.275Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:04:05.274Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:04:24.156Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:04:30.336Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:04:42.304Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:04:54.568Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:04:57.435Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:05:05.969Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:05:18.088Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:05:21.848Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:05:25.242Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:05:33.826Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:05:37.503Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:05:44.214Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:05:48.180Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:05:59.840Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:13:46.573Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:13:52.925Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:14:04.221Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:14:09.872Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:14:33.555Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:14:38.297Z [INFO]:  listening to http://localhost:3000
+2025-04-03T04:14:41.423Z [INFO]:  INFO: Starting a postgresql pool with 9 connections.
+2025-04-03T04:14:41.687Z [INFO]:  QUERY: SELECT "public"."users"."id", "public"."users"."name", "public"."users"."email", "public"."users"."password", "public"."users"."createdAt", "public"."users"."updatedAt" FROM "public"."users" WHERE 1=1 OFFSET $1 - PARAMS: [0]
