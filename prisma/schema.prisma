@@ -13,6 +13,13 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+enum Status {
+  Applied
+  Interviewed 
+  Rejected
+  Accepted
+}
+
 model User {
   id Int @id @default(autoincrement())
   name String @db.VarChar(100)
@@ -21,5 +28,21 @@ model User {
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 
+  Job Job[]
+
   @@map("users")
+}
+
+model Job {
+  id Int @id @default(autoincrement())
+  userId Int
+  company String @db.VarChar(100)
+  position String @db.VarChar(100)
+  salary String
+  status Status
+  appliedAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id])
+
+  @@map("jobs")
 }
